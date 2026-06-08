@@ -1,5 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
- 
+## NAME: HARIHARAN S
+## REGNO: 2305001009
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
 
@@ -96,6 +97,8 @@ int main() {
 
 ```
 ## OUTPUT
+<img width="416" height="292" alt="image" src="https://github.com/user-attachments/assets/58dfd440-42ba-4c01-9dcf-cea8050cb07b" />
+
 
 ## RESULT
 hence the experiment has been executed successfully
